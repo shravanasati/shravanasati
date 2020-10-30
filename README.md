@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 
 ### Tools
-![](https://img.shields.io/badge/Editor-IntelliJ IDEA-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS Code-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJIDEA-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shravan-1908&hide=issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
