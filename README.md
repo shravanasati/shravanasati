@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a high school student passionate about programming! 
 - 🌱 I’m currently learning Java and Golang!
-
+- ⚡ I like contributing to the developer community!
 
 ### Programming languages
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
