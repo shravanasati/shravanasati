@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am high school student passionate about programming! 
+I am a high school student passionate about programming! 
+- 🌱 I’m currently learning Java and Golang!
+
 
 ### Programming languages
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
