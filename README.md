@@ -1,4 +1,4 @@
-### Hello, folks 👋 I am Shravan.
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **Shravan-1908/Shravan-1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
