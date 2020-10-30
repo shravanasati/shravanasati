@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am high school student passionate about programming! 
+
 ### Programming languages
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
@@ -23,5 +25,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 
+### GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shravan-1908&hide=issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravan-1908&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
