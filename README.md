@@ -25,7 +25,8 @@ I am a high school student passionate about programming!
 ![](https://img.shields.io/badge/Framework-Tkinter-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 
 ### Tools and Technologies
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=code&logoColor=red&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-red)
+
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
