@@ -22,13 +22,14 @@ I am a high school student passionate about programming!
 ### Programming languages and Frameworks
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Tkinter-informational?style=flat&logo=code&logoColor=white&color=2bbc8b)
+![](https://img.shields.io/badge/Framework-Tkinter-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 
 ### Tools and Technologies
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=code&logoColor=red&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/version_control-git-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 
 ### GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shravan-1908&hide=issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
