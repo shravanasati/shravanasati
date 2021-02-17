@@ -23,6 +23,7 @@ I am a high school student passionate about programming!
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-SQLite-blue)
+![](https://img.shields.io/badge/Database-MySQL-blue)
 
 ### Tools and Technologies
 
