@@ -15,18 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a high school student passionate about programming! 
-- 🌱 I’m currently learning Java!
+- 🌱 I’m currently learning Web Development!
 - 👯 I like contributing to the developer community!
 - ⚡ Fun fact: I love listening EDM Music, Illenium is my favorite!
 
-### Programming languages and Frameworks
+### Programming languages 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Tkinter-blue)
+![](https://img.shields.io/badge/Database-SQLite-blue)
 
 ### Tools and Technologies
-![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-red)
+
 ![](https://img.shields.io/badge/Editor-VS%20Code-red)
 ![](https://img.shields.io/badge/Editor-Sublime%20Text-red)
 ![](https://img.shields.io/badge/OS-Windows-yellow)
