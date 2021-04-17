@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, I am Shravan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **Shravan-1908/Shravan-1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,26 +14,87 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a high school student passionate about programming! 
+
 - 🌱 I’m currently learning Web Development!
 - 👯 I like contributing to the developer community!
 - ⚡ Fun fact: I love listening EDM Music, Illenium is my favorite!
 
-### Programming languages 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-SQLite-blue)
-![](https://img.shields.io/badge/Database-MySQL-blue)
+<br>
+
+### Programming languages
+
+<a href="#">
+    <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/dev/languages/python.svg">
+</a> 
+
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg">
+</a> 
+
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg">
+</a> 
+
+<br>
+
+#### Currently learning
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg">
+</a> 
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg">
+</a> 
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
+</a> 
+<a href="#">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/frameworks/nodejs_larger.svg">
+</a> 
+
+<br>
+<br>
 
 ### Tools and Technologies
 
-![](https://img.shields.io/badge/Editor-VS%20Code-red)
-![](https://img.shields.io/badge/Editor-Sublime%20Text-red)
-![](https://img.shields.io/badge/OS-Windows-yellow)
-![](https://img.shields.io/badge/Version%20Control-Git-green)
+<a href="#">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/tools/git.svg">
+</a> 
+<a href="#">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/services/github.svg">
+</a> 
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg">
+</a> 
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg">
+</a> 
+<a href="#">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/devices/pc.svg">
+</a> 
+
+<br>
+<br>
+
 
 ### GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shravan-1908&hide=issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravan-1908&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+<br>
+
+### Contact me
+
+
+<a href="https://discordapp.com/users/710717865711501333">
+    <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/social/discord.svg">
+</a>  
+
+<a href="mailto:dev.shravan@protonmail.com">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg">
+</a>  
+
+<br>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=Shravan-1908&label=visitors&color=ff69b4)
