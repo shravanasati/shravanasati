@@ -63,6 +63,12 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/services/github.svg">
 </a> 
 <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg">
+</a> 
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg">
+</a> 
+<a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg">
 </a> 
 <a href="#">
