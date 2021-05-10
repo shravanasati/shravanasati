@@ -35,18 +35,21 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg">
 </a> 
 
-<br>
-
-#### Currently learning
 <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg">
 </a> 
+
 <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg">
 </a> 
+
 <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
 </a> 
+
+<br>
+
+#### Currently learning
 <a href="#">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/frameworks/nodejs_larger.svg">
 </a> 
@@ -83,7 +86,7 @@ Here are some ideas to get you started:
 
 
 ### GitHub Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shravan-1908&hide=issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shravan-1908&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravan-1908&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
