@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://github.com/Shravan-1908">
-    	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Shravan-1908&bg_color=0D1117&color=9a11d9&line=11a0d9&point=C1F7D0&hide_border=true">
+    	<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Shravan-1908&bg_color=0D1117&color=9a11d9&line=11a0d9&point=C1F7D0&hide_border=true">
     </a>
 </p>
 
