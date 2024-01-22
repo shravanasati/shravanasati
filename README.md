@@ -1,7 +1,7 @@
 # Hello, I am Shravan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
-**Shravan-1908/Shravan-1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shravanasati/shravanasati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -92,15 +92,15 @@ Here are some ideas to get you started:
 ### GitHub Stats
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shravan-1908&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shravanasati&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravan-1908&theme=dracula&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravanasati&theme=dracula&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-    <a href="https://github.com/Shravan-1908">
-    	<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Shravan-1908&bg_color=0D1117&color=9a11d9&line=11a0d9&point=C1F7D0&hide_border=true">
+    <a href="https://github.com/shravanasati">
+    	<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shravanasati&bg_color=0D1117&color=9a11d9&line=11a0d9&point=C1F7D0&hide_border=true">
     </a>
 </p>
 
@@ -120,4 +120,4 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-![](https://komarev.com/ghpvc/?username=Shravan-1908&label=visitors&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=shravanasati&label=visitors&color=ff69b4)
