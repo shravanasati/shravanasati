@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Web Development!
-- 👯 I like contributing to the developer community!
-- ⚡ Fun fact: I love listening EDM Music, Illenium is my favorite!
+- 👯 I like contributing to cool open source projects!
+- ⚡ Fun fact: I love listening to EDM Music, Illenium is my favorite artist!
 
 <br>
 
