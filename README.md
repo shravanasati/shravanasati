@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Web Development!
+<!-- - 🌱 I’m currently learning Web Development!
 - 👯 I like contributing to cool open source projects!
-- ⚡ Fun fact: I love listening to EDM Music, Illenium is my favorite artist!
+- ⚡ Fun fact: I love listening to EDM Music, Illenium is my favorite artist! -->
 
 <br>
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </a> 
 
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg">
 </a> 
 
 <a href="#">
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <br>
 
-#### Currently learning
+<!-- #### Currently learning
 <a href="#">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/frameworks/nodejs_larger.svg">
 </a> 
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </a> 
 
 <br>
-<br>
+<br> -->
 
 ### Tools and Technologies
 
