@@ -70,6 +70,9 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/services/github.svg">
 </a> 
 <a href="#">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/tools/docker.svg">
+</a> 
+<a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg">
 </a> 
 <a href="#">
@@ -84,7 +87,9 @@ Here are some ideas to get you started:
 <a href="#">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/devices/pc.svg">
 </a> 
-
+<a> 
+    <img src="https://raw.githubusercontent.com/PoorPocketsMcNewHold/ColoredBadges/refs/heads/master/svg/devices/linux.svg">
+</a>
 <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/services/digitalocean.svg">
 </a> 
@@ -103,7 +108,7 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravanasati&theme=dracula&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravanasati&theme=dracula&langs_count=4&hide=html,jupyter%20notebook&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center">
     <a href="https://github.com/shravanasati">
@@ -116,9 +121,9 @@ Here are some ideas to get you started:
 ### Contact me
 
 
-<a href="https://discordapp.com/users/710717865711501333">
+<!-- <a href="https://discordapp.com/users/710717865711501333">
     <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/social/discord.svg">
-</a>  
+</a>   -->
 
 <a href="mailto:dev.shravan@protonmail.com">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg">
